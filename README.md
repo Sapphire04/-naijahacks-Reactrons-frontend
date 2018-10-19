@@ -13,6 +13,8 @@ Shalom Mathew, Shalom.mat40@gmail.com
 
 Mavan Harry, mavenmacson@gmail.com
 
+Egemasi Sapphire, egemasisapphire04@gmail.com
+
 )
 
 Section
@@ -23,7 +25,7 @@ This is Nigeria, Looking at the agricultural sector in nigeria,
 there actually no online platform were people can buy and sell their quality and affordable agricultural items .
 
 Proposed Solution
-iFarm, an online Buying and Selling PlatForm, an e Commerce for Agriculture, people can Connect with Agriculture
+iFarm, an online Buying and Selling PlatForm, an e Commerce for Agriculture, people can Connect with Agriculture.
 
 Proposed Stack
 React.js and Node.js
